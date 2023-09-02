@@ -1,0 +1,311 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+h1 h2 h3 h4 h5 h6 p {
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    width: 80%;
+margin-left: 10%;
+padding: 2%;
+
+}
+
+.logo{
+    width: 100%;
+
+
+    
+}
+nav{
+    font-size: 20px;
+    
+    
+}
+nav a{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    color: #97999b;
+
+
+}
+
+
+        
+
+
+.banner{ background-image: url(https://images.pexels.com/photos/16208832/pexels-photo-16208832.jpeg?cs=srgb&dl=pexels-ridvan-ayrik-16208832.jpg&fm=jpg&_gl=1*aqoc44*_ga*MTg3MDQ1NDEwNS4xNjkyNDUxNTg3*_ga_8JE65Q40S6*MTY5MzMwNDgxMi4yLjEuMTY5MzMwNTY0OC4wLjAuMA..);
+       height: 700px;
+       background-size: cover;
+       background-position: center;
+       position: relative;
+       text-align: center;
+       transition: 4s all ease-in-out;
+       margin-bottom: 100px;
+
+       
+       
+    
+      
+ 
+  
+       
+  
+}
+
+
+.banner h1{
+    text-align: center;
+    color: #ffffff;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 300px;
+
+}
+
+.banner h5{
+
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+    padding-top: 12px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+
+
+.banner button{  
+    margin-top: 45px;
+    padding: 11px 30px;
+    background-color: transparent;
+    border: 1.5px solid #e2d9d8;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    transition: 4s all ease-in-out;
+}
+.service{
+    width: 80%;
+    margin: 20px;
+    
+   
+
+}
+.item{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+
+}
+
+.feature_section{
+
+padding: 80px 0;
+
+}
+
+
+
+.feature_wrapper{ 
+    width: 80%;
+    margin:auto;
+
+
+}
+
+.feature{
+    display: flex;
+    justify-content: space-between;
+}
+.feature_item{
+    width: 30%;
+    text-align: center;
+
+}
+
+.feature_item h3{
+    text-transform: capitalize;
+    margin-bottom: 10px;
+
+}
+
+.feature_item p{
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+
+.icon{
+    height: 60px;
+    width: 60px;
+    background: #1a5d6e;
+    color: white;
+    font-size: 35px;
+    line-height: 60px;
+    border-radius: 50%;
+    margin: auto;
+    margin-bottom: 20px;
+
+
+
+}
+
+.qoute{
+
+width: 40%;
+margin: 40px auto 0;
+}
+
+.qoute h1{
+
+    text-align: center;
+    font-style: italic;
+    font-weight: 100;
+    color: #1a5d6e;
+
+
+}
+
+.feature_section2{
+    width: 80%;
+    margin: auto;
+    padding: 60px 0;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+   
+
+    
+}
+
+.itemm{ 
+    width: 30%;
+   
+
+
+
+
+}
+.feature_section2 img{
+    
+    width: 100%;
+    padding-bottom: 20px;
+    
+    
+
+    
+    
+
+}
+.itemm h3{ 
+    padding-bottom: 5px;
+    font-style: italic;
+    font-size: 25px;
+
+}
+    
+.itemm p{
+    font-family: 'Times New Roman', Times, serif;
+    color: #97999b;
+    
+
+}
+   
+
+.blog{
+    
+    width: 60%;
+    margin: auto;
+    padding: 60px 0;
+    display: flex;
+    justify-content: space-between;
+    
+    
+    
+   
+    
+
+   
+    
+
+
+}
+
+.text{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-family: 'Times New Roman', Times, serif;
+
+    
+    
+    
+
+}
+
+.item3{ 
+    width: 40%;
+    
+}
+.blog img{ width: 100%;
+    padding-bottom: 10px;
+
+}
+
+.item3 h3{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-style: italic;
+    font-size: 25px;
+
+}
+
+.item3 P {
+    padding-top: 10px;
+    
+}
+footer{
+    background-color: #1a5d6e;
+    padding: 50px 0;
+    
+
+}
+
+.footer_content{
+    width: 80%; margin: auto; display: flex; justify-content: space-between; padding: 50px 0;
+    
+
+}
+.logo2{
+
+}
+.logo2 img{ width: 100%;
+
+}
+
+.social_icon{
+
+}
+
+.social_icon ul{
+    display: flex; list-style: none; justify-content: space-around;
+    
+
+}
+
+.social_icon ul li{
+    margin-left: 15px;
+
+
+
+}
